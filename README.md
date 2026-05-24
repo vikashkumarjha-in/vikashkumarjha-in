@@ -1,6 +1,7 @@
-<p align="center">
+[<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,100:a371f7&text=VIKASH%20KUMAR%20JHA&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=🔐%20Aspiring%20Cybersecurity%20Analyst%20%7C%20Google%20Certified%20%7C%20ISO%2027001%20Lead%20Auditor%20%7C%20Blue%20Teaming%20Expert%20(Top%201%25%20TryHackMe)&descSize=18&descColor=FFFFFF&descAlignY=85" width="100%"/>
-</p>
+</p>](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:a371f7&text=VIKASH%20KUMAR%20JHA&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=🔐%20Aspiring%20Cybersecurity%20Analyst%20%7C%20Google%20Certified%20%7C%20ISO%2027001%20Lead%20Auditor%20%7C%20Blue%20Teaming%20Expert%20(Top%201%25%20TryHackMe)&descSize=18&descColor=FFFFFF&descAlignY=70" width="100%"/>
+</p>)
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=vikashkumarjha-in">
