@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=VIKASH%20KUMAR%20JHA&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%94%90%20Aspiring%20Cybersecurity%20Analyst%20%7C%20Google%20Cybersecurity%20Certified%20%7C%20ISO%2FIEC%E2%80%AF27001%3A2022%20Lead%20Auditor%20%7C%20Blue%20Teaming%20Expert%20(Top%E2%80%AF1%25%20TryHackMe)&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0:000000,100:a371f7&text=VIKASH%20KUMAR%20JHA&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%94%90🔐%20Aspiring%20Cybersecurity%20Analyst%20%7C%20Google%20Cybersecurity%20Certified%20%7C%20ISO%2FIEC%E2%80%AF27001%3A2022%20Lead%20Auditor%20%7C%20Blue%20Teaming%20Expert%20(Top%E2%80%AF1%25%20TryHackMe)&descSize=18&descColor=FFFFFF&descAlignY=90" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=vikashkumarjha-in">
